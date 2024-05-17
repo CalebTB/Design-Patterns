@@ -1,0 +1,5 @@
+Notes on Adapter Design Pattern:
+
+
+An adapter is a structural design patter that allows objects with incompatible interfaces to collaborate,
+just like an plug adapter
